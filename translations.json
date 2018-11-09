@@ -44,7 +44,7 @@
 },
 {
 	"nl": "man",
-	"straat": "G"
+	"straat": ["G","swa"]
 },
 {
 	"nl": "neuk",
