@@ -45,4 +45,20 @@
 {
 	"nl": "man",
 	"straat": "G"
+},
+{
+	"nl": "neuk",
+	"straat": "bal"
+},
+{
+	"nl": ["zie","kijk"],
+	"straat": "shoef"
+},
+{
+	"nl": "bekijk",
+	"straat": "beshoef"
+},
+{
+	"nl": ["billen","kont","aars","reet"],
+	"straat": "techna"
 }]
