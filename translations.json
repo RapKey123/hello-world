@@ -77,4 +77,8 @@
 {
 	"nl": ["joint","wiet"],
 	"straat": ["jonko","jonk","blunt"]
+},
+{
+	"nl": ["huis","thuis"],
+	"straat": "osso"
 }]
