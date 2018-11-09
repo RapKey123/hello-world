@@ -65,4 +65,12 @@
 {
 	"nl": ["mongool","mogool","mongol","downie","downy"],
 	"straat": "daabse"
+},
+{
+	"nl": ["rook","blow"],
+	"straat": "klap"
+},
+{
+	"nl": ["roken","blowen","paffen"],
+	"straat": "klappen"
 }]
