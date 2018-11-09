@@ -73,4 +73,8 @@
 {
 	"nl": ["roken","blowen","paffen"],
 	"straat": "klappen"
+},
+{
+	"nl": ["joint","wiet"],
+	"straat": ["jonko","jonk","blunt"]
 }]
