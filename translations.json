@@ -81,4 +81,12 @@
 {
 	"nl": ["huis","thuis"],
 	"straat": "osso"
+},
+{
+	"nl": "steel",
+	"straat": "kantel"
+},
+{
+	"nl": "stelen",
+	"straat": "kantelen"
 }]
