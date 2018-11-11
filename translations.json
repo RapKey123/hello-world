@@ -89,4 +89,24 @@
 {
 	"nl": "stelen",
 	"straat": "kantelen"
+},
+{
+	"nl": "scheet",
+	"straat": "dampoe"
+},
+{
+	"nl": ["heel", "fucking", "facking","super","kei","duchtig"],
+	"straat": ["kaulo","omin","tantoe"]
+},
+{
+	"nl": ["vet","cool"],
+	"straat": "dom"
+},
+{
+	"nl": ["vette","coole"],
+	"straat": "domme"
+},
+{
+	"nl": ["schoene","schoenen"],
+	"straat": "pattas"
 }]
