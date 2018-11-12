@@ -109,4 +109,12 @@
 {
 	"nl": ["schoene","schoenen"],
 	"straat": "pattas"
+},
+{
+	"nl": "scheten",
+	"straat": "dampoes"
+},
+{
+	"nl": ["vrienden","maten"],
+	"straat": ["dreries","a sahbis"]
 }]
